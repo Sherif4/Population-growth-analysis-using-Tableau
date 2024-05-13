@@ -6,16 +6,16 @@
 3. What its impact on the economy?!
 
 1. As we can see fertility rate decrease for all the 4 countries, we decided to make this analysis on, but with a different rate!
-![alt text](<Story 1-1.png>)
+![alt text](</Images/Story 1.png>)
 
 2. Although the population growth decreases year by year, the undernourishment in Egypt increased massively, also the current health expenditure decreased!
-![alt text](<Story 2.png>)
+![alt text](</Images/Story 2.png>)
 
 There is an increase in some countries in primary education enrollment but there’s decrease in another and also the average out-of-school children varies.
-![alt text](<Story 3.png>)
+![alt text](</Images/Story 3.png>)
 
 3. The currency value deteriorates rapidly for some countries even if the population growth rate is decreasing, but the unemployment rate on other hand is decreasing but at much slower pace.
-![alt text](<Story 3-1.png>)
+![alt text](</Images/Story 4.png>)
 
 
 ## Results:
